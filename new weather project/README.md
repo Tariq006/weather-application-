@@ -15,7 +15,7 @@ To setup this project.
 
 - cd into the folder and install the dependencies in requirements.txt (just in case)
 
-  `(venv)$ pip3 install -r requirements.txt`
+  `(venv)$ pip3 install -r requirement.txt`
 
 - in the virtual environment, run:
 
